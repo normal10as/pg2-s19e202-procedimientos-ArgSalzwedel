@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\Procedimientos\AhoraEs\bin\Debug\netcoreapp2.1\AhoraEs.deps.json
+C:\Users\malon\source\repos\Procedimientos\AhoraEs\bin\Debug\netcoreapp2.1\AhoraEs.runtimeconfig.json
+C:\Users\malon\source\repos\Procedimientos\AhoraEs\bin\Debug\netcoreapp2.1\AhoraEs.runtimeconfig.dev.json
+C:\Users\malon\source\repos\Procedimientos\AhoraEs\bin\Debug\netcoreapp2.1\AhoraEs.dll
+C:\Users\malon\source\repos\Procedimientos\AhoraEs\bin\Debug\netcoreapp2.1\AhoraEs.pdb
+C:\Users\malon\source\repos\Procedimientos\AhoraEs\obj\Debug\netcoreapp2.1\AhoraEs.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\Procedimientos\AhoraEs\obj\Debug\netcoreapp2.1\AhoraEs.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\Procedimientos\AhoraEs\obj\Debug\netcoreapp2.1\AhoraEs.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\Procedimientos\AhoraEs\obj\Debug\netcoreapp2.1\AhoraEs.AssemblyInfo.vb
+C:\Users\malon\source\repos\Procedimientos\AhoraEs\obj\Debug\netcoreapp2.1\AhoraEs.dll
+C:\Users\malon\source\repos\Procedimientos\AhoraEs\obj\Debug\netcoreapp2.1\AhoraEs.pdb

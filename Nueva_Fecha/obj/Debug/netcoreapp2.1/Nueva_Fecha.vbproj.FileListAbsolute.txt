@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\Procedimientos\Nueva_Fecha\bin\Debug\netcoreapp2.1\Nueva_Fecha.deps.json
+C:\Users\malon\source\repos\Procedimientos\Nueva_Fecha\bin\Debug\netcoreapp2.1\Nueva_Fecha.runtimeconfig.json
+C:\Users\malon\source\repos\Procedimientos\Nueva_Fecha\bin\Debug\netcoreapp2.1\Nueva_Fecha.runtimeconfig.dev.json
+C:\Users\malon\source\repos\Procedimientos\Nueva_Fecha\bin\Debug\netcoreapp2.1\Nueva_Fecha.dll
+C:\Users\malon\source\repos\Procedimientos\Nueva_Fecha\bin\Debug\netcoreapp2.1\Nueva_Fecha.pdb
+C:\Users\malon\source\repos\Procedimientos\Nueva_Fecha\obj\Debug\netcoreapp2.1\Nueva_Fecha.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Nueva_Fecha\obj\Debug\netcoreapp2.1\Nueva_Fecha.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Nueva_Fecha\obj\Debug\netcoreapp2.1\Nueva_Fecha.AssemblyInfo.vb
+C:\Users\malon\source\repos\Procedimientos\Nueva_Fecha\obj\Debug\netcoreapp2.1\Nueva_Fecha.dll
+C:\Users\malon\source\repos\Procedimientos\Nueva_Fecha\obj\Debug\netcoreapp2.1\Nueva_Fecha.pdb
+C:\Users\malon\source\repos\Procedimientos\Nueva_Fecha\obj\Debug\netcoreapp2.1\Nueva_Fecha.vbprojAssemblyReference.cache

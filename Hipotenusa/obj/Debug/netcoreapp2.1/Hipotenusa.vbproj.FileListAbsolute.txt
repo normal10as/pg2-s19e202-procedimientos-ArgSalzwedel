@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.deps.json
+C:\Users\malon\source\repos\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.runtimeconfig.json
+C:\Users\malon\source\repos\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.runtimeconfig.dev.json
+C:\Users\malon\source\repos\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.dll
+C:\Users\malon\source\repos\Procedimientos\Hipotenusa\bin\Debug\netcoreapp2.1\Hipotenusa.pdb
+C:\Users\malon\source\repos\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.AssemblyInfo.vb
+C:\Users\malon\source\repos\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.dll
+C:\Users\malon\source\repos\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.pdb
+C:\Users\malon\source\repos\Procedimientos\Hipotenusa\obj\Debug\netcoreapp2.1\Hipotenusa.vbprojAssemblyReference.cache

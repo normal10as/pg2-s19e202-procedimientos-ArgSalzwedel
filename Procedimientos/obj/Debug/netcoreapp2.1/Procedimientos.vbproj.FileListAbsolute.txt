@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\Procedimientos\Procedimientos\bin\Debug\netcoreapp2.1\Procedimientos.deps.json
+C:\Users\malon\source\repos\Procedimientos\Procedimientos\bin\Debug\netcoreapp2.1\Procedimientos.runtimeconfig.json
+C:\Users\malon\source\repos\Procedimientos\Procedimientos\bin\Debug\netcoreapp2.1\Procedimientos.runtimeconfig.dev.json
+C:\Users\malon\source\repos\Procedimientos\Procedimientos\bin\Debug\netcoreapp2.1\Procedimientos.dll
+C:\Users\malon\source\repos\Procedimientos\Procedimientos\bin\Debug\netcoreapp2.1\Procedimientos.pdb
+C:\Users\malon\source\repos\Procedimientos\Procedimientos\obj\Debug\netcoreapp2.1\Procedimientos.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\Procedimientos\Procedimientos\obj\Debug\netcoreapp2.1\Procedimientos.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Procedimientos\obj\Debug\netcoreapp2.1\Procedimientos.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Procedimientos\obj\Debug\netcoreapp2.1\Procedimientos.AssemblyInfo.vb
+C:\Users\malon\source\repos\Procedimientos\Procedimientos\obj\Debug\netcoreapp2.1\Procedimientos.dll
+C:\Users\malon\source\repos\Procedimientos\Procedimientos\obj\Debug\netcoreapp2.1\Procedimientos.pdb

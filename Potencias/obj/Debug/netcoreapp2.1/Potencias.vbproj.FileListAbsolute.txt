@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.deps.json
+C:\Users\malon\source\repos\Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.runtimeconfig.json
+C:\Users\malon\source\repos\Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.runtimeconfig.dev.json
+C:\Users\malon\source\repos\Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.dll
+C:\Users\malon\source\repos\Procedimientos\Potencias\bin\Debug\netcoreapp2.1\Potencias.pdb
+C:\Users\malon\source\repos\Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.AssemblyInfo.vb
+C:\Users\malon\source\repos\Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.dll
+C:\Users\malon\source\repos\Procedimientos\Potencias\obj\Debug\netcoreapp2.1\Potencias.pdb

@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\malon\\source\\repos\\Procedimientos\\Procedimientos\\Procedimientos.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\malon\\source\\repos\\Procedimientos\\Procedimientos\\Procedimientos.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\malon\\source\\repos\\Procedimientos\\Procedimientos\\Procedimientos.vbproj",
+        "projectName": "Procedimientos",
+        "projectPath": "C:\\Users\\malon\\source\\repos\\Procedimientos\\Procedimientos\\Procedimientos.vbproj",
+        "packagesPath": "C:\\Users\\malon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\malon\\source\\repos\\Procedimientos\\Procedimientos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\malon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

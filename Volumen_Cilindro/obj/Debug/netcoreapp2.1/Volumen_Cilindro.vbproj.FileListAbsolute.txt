@@ -1,0 +1,10 @@
+C:\Users\malon\source\repos\Procedimientos\Volumen_Cilindro\bin\Debug\netcoreapp2.1\Volumen_Cilindro.deps.json
+C:\Users\malon\source\repos\Procedimientos\Volumen_Cilindro\bin\Debug\netcoreapp2.1\Volumen_Cilindro.runtimeconfig.json
+C:\Users\malon\source\repos\Procedimientos\Volumen_Cilindro\bin\Debug\netcoreapp2.1\Volumen_Cilindro.runtimeconfig.dev.json
+C:\Users\malon\source\repos\Procedimientos\Volumen_Cilindro\bin\Debug\netcoreapp2.1\Volumen_Cilindro.dll
+C:\Users\malon\source\repos\Procedimientos\Volumen_Cilindro\bin\Debug\netcoreapp2.1\Volumen_Cilindro.pdb
+C:\Users\malon\source\repos\Procedimientos\Volumen_Cilindro\obj\Debug\netcoreapp2.1\Volumen_Cilindro.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Volumen_Cilindro\obj\Debug\netcoreapp2.1\Volumen_Cilindro.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Volumen_Cilindro\obj\Debug\netcoreapp2.1\Volumen_Cilindro.AssemblyInfo.vb
+C:\Users\malon\source\repos\Procedimientos\Volumen_Cilindro\obj\Debug\netcoreapp2.1\Volumen_Cilindro.dll
+C:\Users\malon\source\repos\Procedimientos\Volumen_Cilindro\obj\Debug\netcoreapp2.1\Volumen_Cilindro.pdb

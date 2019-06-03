@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.deps.json
+C:\Users\malon\source\repos\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.runtimeconfig.json
+C:\Users\malon\source\repos\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.runtimeconfig.dev.json
+C:\Users\malon\source\repos\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.dll
+C:\Users\malon\source\repos\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.pdb
+C:\Users\malon\source\repos\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.AssemblyInfo.vb
+C:\Users\malon\source\repos\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.dll
+C:\Users\malon\source\repos\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.pdb
